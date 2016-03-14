@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Notes: MXNet"
+title:  "Tmux Shorcuts & Cheatsheet"
 categories: cheatsheets
 ---
-
-# tmux shortcuts & cheatsheet
 
 *Disclaimer*: [Forked from here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjelOTJ8r_LAhVO-mMKHauvBWsQFggdMAA&url=https%3A%2F%2Fgist.github.com%2F2961058&usg=AFQjCNEcswUGsCctAoKSsoD5r-Gvu0egRg&sig2=LzRXB_LuNirljmpJ42-6dA)
 
