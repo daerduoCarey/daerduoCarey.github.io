@@ -15,4 +15,6 @@ twitter_username: KaichunMo
 github_username:  daerduoCarey
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+permalink: pretty
