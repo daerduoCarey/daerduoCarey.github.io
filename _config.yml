@@ -13,8 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://daerduoCarey.github.io" # the base hostname & protocol for your site
 twitter_username: KaichunMo
 github_username:  daerduoCarey
+facebook_username: daerduocarey
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
-permalink: pretty
+markdown: kramdown
