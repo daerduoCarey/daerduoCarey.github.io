@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes: MXNet"
-categories: jekyll update
+categories: paper notes
 ---
 
 title
