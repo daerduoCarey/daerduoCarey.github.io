@@ -7,8 +7,8 @@ categories: cheatsheets
 *Disclaimer*: [Forked from here](https://gist.github.com/socketwiz/2645891)
 
 ##  motions
-motion  | description  
-------------- | ------------- 
+motion  | description  |
+------------- | ------------- |
 h | Count characters left   |
 l | Count characters right   |
 ^ | To the first character of the line   |
